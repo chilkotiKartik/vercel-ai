@@ -1,6 +1,4 @@
-Here’s your improved **README.md** with **Kartik Chilkoti** added as a contributor along with the email you gave. I polished the formatting so it looks professional and balanced.
 
-````markdown
 # Vercel - AI-Powered Mental Health Support
 
 An AI-powered web application designed for early mental health detection, offering personalized support and a suite of interactive wellness tools. Built with ❤️ for better mental wellness.
