@@ -151,10 +151,7 @@ Distributed under the MIT License.
 
 ### 📬 Contact  
 - **Kartik Chilkoti** – [chilkotikartik@gmail.com](mailto:chilkotikartik@gmail.com)
-
-Project Link: [https://github.com/KingHero11211/Vercel.git](https://github.com/KingHero11211/Vercel.git)
-
----
+-
 
 ### 🙏 Acknowledgments
 
